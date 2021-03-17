@@ -9,7 +9,7 @@ In this exercise, you'll deploy a Cloudflare Workers project in order to build a
 - Authorize CF account to activate API Token
 - Generate Workers project using Router starter template (helps with link rerouting) 
 - Update `wrangler.toml` file with user **account_id** 
-- Understand HTML Rewriter and Return JSON documentation
+- Understand HTML Rewriter, Return JSON and Fetch HTML documentation
 
 ## Requirements
 
