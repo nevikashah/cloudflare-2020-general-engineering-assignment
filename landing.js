@@ -49,7 +49,7 @@ export default async function () {
             }
         }
     }
-
+    //create social links clickable by svg icons
     class SocialTransformer {
         async element(element) {
             element.removeAttribute('style');
