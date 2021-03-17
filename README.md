@@ -6,8 +6,8 @@ In this exercise, you'll deploy a Cloudflare Workers project in order to build a
 
 ## Prerequisites
 - Install `wrangler`; the Workers CLI
-- Generate Workers project using Router starter template (helps with link rerouting) 
 - Authorize CF account to activate API Token
+- Generate Workers project using Router starter template (helps with link rerouting) 
 - Update `wrangler.toml` file with user **account_id** 
 
 ## Requirements
